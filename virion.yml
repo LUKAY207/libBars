@@ -1,0 +1,5 @@
+name: libBars
+version: 0.0.1
+antigen: lukay\libBars
+api: 5.0.0
+author: lukay
