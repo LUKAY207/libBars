@@ -1,6 +1,6 @@
 {
   "name": "lukay/lib-bars",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "require-dev": {
     "phpstan/phpstan": "2.0.x-dev"
   },
